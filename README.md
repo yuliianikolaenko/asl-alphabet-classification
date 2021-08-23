@@ -1,5 +1,5 @@
-# AI_ASL_classification
-Project disctiption: part of the AI course project dedicated to ASL classification using CNN.
+# ASL alphabet classification
+Project disctiption: part of the AI course project dedicated to ASL alphabet classification using CNN.
 
 Dataset sourse: https://www.kaggle.com/grassknoted/asl-alphabet
 
