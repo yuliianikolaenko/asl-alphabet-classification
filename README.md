@@ -6,10 +6,10 @@ Project is the part of the AI course project dedicated to ASL alphabet classific
 Application of the CNN and ResNet models to the sign language pictures classification. To develop computer vision system that translate sign language to spoken language in streaming video. As first step, towards understanding how to build a translation system, we can reduce the size of the problem by translating individual letters, instead of sentences.
 
 ## Project tasks
-* [Data preparation](##Data-preparation)
-* [Applying CNN model](##CNN-model)
-* [Applying ResNet model](##ResNet-model)
-* [Models comparison](##Models-comparison)
+* [Data preparation](#Data-preparation)
+* [Applying CNN model](#CNN-model)
+* [Applying ResNet model](#ResNet-model)
+* [Models comparison](#Models-comparison)
 
 
  ## Set Up 
