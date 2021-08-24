@@ -7,10 +7,7 @@ Application of the CNN and ResNet models to the sign language pictures classific
 
 ## Project tasks
 * [Data preparation](#Data-preparation)
-* [Applying CNN model](#CNN-model)
-* [Applying ResNet model](#ResNet-model)
 * [Models comparison](#Models-comparison)
-
 
  ## Set Up 
 <code>notebook.ipynb</code>: Python code 
@@ -25,10 +22,5 @@ set contains 87,000 images which are 200x200 pixels. There are 29 classes, of wh
 Creating smaller train and test data frames 2900 images for train. Training set for the model: 64x64 colour images. Lebel map: From 0 to 28 for each
 letter and special signs.
 
-## CNN model
-
-## ResNet model 
-
 ## Models Comparison
-
 ![image](https://github.com/yuliianikolaenko/asl-alphabet-classification/blob/main/comparison.png)
