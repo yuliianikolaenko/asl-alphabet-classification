@@ -1,13 +1,17 @@
 # ASL alphabet classification
 Project disctiption: part of the AI course project dedicated to ASL alphabet classification using CNN.
 
+ ## Set Up 
+ 
+ ## Data 
+
 Dataset sourse: https://www.kaggle.com/grassknoted/asl-alphabet
 
 Goal of the research: to apply CNN and ResNet models at the sign language pictures classification. 
 
 Team: Yuliia Nikolaenko, Mihaela Grigore, Lara Wagner. 
 
-Project tasks:
+## Project tasks
 1. Data preparation
 2. Applying CNN model 
 3. Applying ResNet model
