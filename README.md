@@ -25,7 +25,7 @@ letter and special signs.
 
 ## CNN model
 
-# ResNet model
+## ResNet model
 
 ## Models Comparison
 Train: 100 examples from each of the 29 classes => 2900 examples
