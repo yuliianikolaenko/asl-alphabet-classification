@@ -26,8 +26,9 @@ Creating smaller train and test data frames 2900 images for train. Training set 
 letter and special signs.
 
 ## CNN model
-![image](https://user-images.githubusercontent.com/51966068/130612844-c4368c64-6329-4321-a0b7-80be975aa84a.png)
-## ResNet model
-![image](https://user-images.githubusercontent.com/51966068/130612829-7bffe755-cbe6-4d67-aa9c-3e3bd08459e0.png)
+
+## ResNet model 
+
 ## Models Comparison
 
+![image](https://github.com/yuliianikolaenko/asl-alphabet-classification/blob/main/comparison.png)
