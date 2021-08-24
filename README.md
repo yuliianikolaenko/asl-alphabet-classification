@@ -23,4 +23,4 @@ Creating smaller train and test data frames 2900 images for train. Training set 
 letter and special signs.
 
 ## Models Comparison
-![image](https://github.com/yuliianikolaenko/asl-alphabet-classification/blob/main/comparison.png)
+![image]()
