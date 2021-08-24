@@ -30,5 +30,4 @@ letter and special signs.
 ## ResNet model
 
 ## Models Comparison
-Train: 100 examples from each of the 29 classes => 2900 examples
-Test: same as above, but different images 100 epochs, batch_size = 64
+
